@@ -1,8 +1,8 @@
 {
     "root": ".",
-    "title": "我的Python笔记本",
+    "title": "我的Origin笔记本",
     "author": "Winnerzr",
-    "description": "Winnerzr's Python notebook",
+    "description": "Winnerzr's Origin notebook",
     "language": "zh-hans",
     "plugins": [
         "donate",
